@@ -19,5 +19,5 @@ if(arr[m] > x)return b_search(arr,l,m-1,x);
 
 else return b_search(arr,m+1,r,x); 
 
-}
+   }
 }
